@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../mae/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../mae/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../mae/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../mae/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../mae/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../mae/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../mae/proguard_logs" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-closed-issues/issue_636/input.scss" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-closed-issues/issue_636" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/bower/node_modules/bower-registry-client/node_modules/request/node_modules/http-signature/node_modules/asn1/package.json" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/bower/node_modules/bower-registry-client/node_modules/request/node_modules/http-signature/node_modules/asn1" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/163_test_combinator_unification_double_plus" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/basic/09_selector_groups_and_combinators/input.scss" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/basic/09_selector_groups_and_combinators" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/bower/node_modules/bower-registry-client/node_modules/request/node_modules/http-signature/README.md" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/bower/node_modules/bower-registry-client/node_modules/request/node_modules/http-signature" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/scss-tests/114_test_selector_interpolation_at_attr_beginning/expected_output.css" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/scss-tests/114_test_selector_interpolation_at_attr_beginning" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-todo-tests/scss-tests/126_test_media_interpolation_with_reparse/expected_output.css" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-todo-tests/scss-tests/126_test_media_interpolation_with_reparse" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/scss-tests/053_test_no_namespace_properties_without_space/input.scss" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/scss-tests/053_test_no_namespace_properties_without_space" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-closed-issues/issue_657/limit/expected_output.css" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-closed-issues/issue_657/limit" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/maps/map-has-key/expected_output.css" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/maps/map-has-key" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/node_modules/bower/node_modules/bower-config/node_modules/mout/doc/function.md" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/node_modules/bower/node_modules/bower-config/node_modules/mout/doc" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/platforms/android/cordova/node_modules/shelljs/LICENSE" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/platforms/android/cordova/node_modules/shelljs" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/node_modules/bower/node_modules/bower-config/node_modules/mout/date/isSame.js</file>
+          <file>file://$MODULE_DIR$/node_modules/bower/node_modules/bower-config/node_modules/mout/date/dayOfTheYear.js</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/073_test_pseudo_unification</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/css/bizarrely_formatted_comments/expected_output.css</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/css/directive_with_lots_of_whitespace/input.scss</file>
+          <file>file://$MODULE_DIR$/platforms/android/assets/www/lib/ionic/scss/_list.scss</file>
+          <file>file://$MODULE_DIR$/platforms/android/assets/www/lib/ionic/scss/_radio.scss</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-todo-tests/at-root/basic/expected_output.css</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/libsass-todo-tests/at-root/media/input.scss</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/013_test_dynamic_extendee</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/basic/60_call/expected_output.css</file>
+          <file>file://$MODULE_DIR$/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/basic/60_call/input.scss</file>
+          <file>file://$MODULE_DIR$/node_modules/bower/node_modules/fstream-ignore/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md</file>
+          <file>file://$MODULE_DIR$/node_modules/bower/node_modules/fstream-ignore/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
